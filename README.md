@@ -1,1 +1,1 @@
-# stinky
+Make sure to get rid of the png at the end. place all the images in the  images file make sure to get rid of the png on all of them. for senpai and spirit put them in weebs file which is in the images file
